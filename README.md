@@ -1,8 +1,6 @@
 # 🚀 **React Redux Todo App**  
 ### *The Ultimate React-Redux Todo List with Enterprise-Grade State Management*  
-
-![TaskMaster Pro Demo](https://via.placeholder.com/1200x600/2D3748/FFFFFF?text=TaskMaster+Pro+-+Redux+Powered+Productivity)  
-*(Replace with high-quality animated GIF showing CRUD operations)*  
+ 
 
 ---
 
