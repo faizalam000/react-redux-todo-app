@@ -115,9 +115,6 @@ graph TD
 
 ---
 
-## 📜 **License**  
-MIT Licensed - *Free for commercial and personal use*  
-
 **⭐ Star this repo if it helped you master Redux!**  
 
 ---
