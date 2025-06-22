@@ -101,7 +101,7 @@ Click the 🗑️ (trash) icon to remove a task.
 
 ## 👨‍💻 Author
 
-**Your Name**
-GitHub: [@faizalam](https://github.com/faizalam000)
+**Faiz Alam**
+GitHub: [@faizalam000](https://github.com/faizalam000)
 
 ---
