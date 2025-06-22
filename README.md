@@ -99,31 +99,9 @@ Click the 🗑️ (trash) icon to remove a task.
 
 ---
 
-## 📸 Screenshot (optional)
-
-*Add a screenshot of your UI here for better showcase.*
-
----
-
 ## 👨‍💻 Author
 
 **Your Name**
-GitHub: [@yourusername](https://github.com/yourusername)
+GitHub: [@faizalam](https://github.com/faizalam000)
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-```
-
----
-
-Let me know if you'd like:
-- Tailwind installation steps added
-- A deploy link badge (Vercel/Netlify)
-- A version with dark mode screenshot
-
-Want me to generate the README and attach it as a file?
-```
