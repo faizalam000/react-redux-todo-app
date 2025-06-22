@@ -1,5 +1,3 @@
-
-```markdown
 # React Redux Todo App
 
 A modern and efficient Todo List application built using **React** and **Redux Toolkit**. This app allows users to add, edit, delete, and mark tasks as done, with clean state management and a responsive interface.
