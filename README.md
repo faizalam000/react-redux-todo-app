@@ -1,13 +1,131 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+```markdown
+# React Redux Todo App
 
-Currently, two official plugins are available:
+A modern and efficient Todo List application built using **React** and **Redux Toolkit**. This app allows users to add, edit, delete, and mark tasks as done, with clean state management and a responsive interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# react-redux-todo-app
+- ✅ Add new todos
+- ✏️ Edit existing tasks
+- ❌ Delete tasks
+- ✅ Mark tasks as completed
+- ⚛️ State managed with Redux Toolkit
+- 🎨 Styled with Tailwind CSS (if included)
+
+---
+
+## 🧠 Tech Stack
+
+- **React** – Frontend library
+- **Redux Toolkit** – Simplified Redux state management
+- **React Icons** – Icon set for UI buttons
+- **Tailwind CSS** *(optional)* – Utility-first styling
+
+---
+
+## 📁 Project Structure
+
+```
+
+react-redux-todo-app/
+├── src/
+│   ├── app/
+│   │   └── store.js             # Redux store
+│   ├── components/
+│   │   └── Todo.jsx             # Main todo component
+│   ├── features/
+│   │   └── todo/
+│   │       └── TodoSlice.js     # Redux slice (reducers/actions)
+│   └── App.jsx                  # App entry point with Provider
+├── package.json
+└── README.md
+
+````
+
+---
+
+## ⚙️ Setup & Installation
+
+1. **Clone the repo**
+
+```bash
+git clone https://github.com/yourusername/react-redux-todo-app.git
+cd react-redux-todo-app
+````
+
+2. **Install dependencies**
+
+```bash
+npm install
+```
+
+3. **Run the app**
+
+```bash
+npm run dev
+# or if you're using Create React App:
+# npm start
+```
+
+---
+
+## 🛠 Functionality Overview
+
+### ➕ Add a Todo
+
+Type a task in the input and click **Add**.
+
+### 📝 Edit a Todo
+
+Click the ✏️ (edit) button to enable editing, then **Update**.
+
+### ✅ Mark as Done
+
+Click the ✅ (done) button to visually mark a task as completed.
+
+### ❌ Delete a Todo
+
+Click the 🗑️ (trash) icon to remove a task.
+
+---
+
+## 🧪 Future Improvements
+
+* Filter by completed/pending
+* Local storage or backend sync
+* Drag & drop reorder
+* Due dates and reminders
+
+---
+
+## 📸 Screenshot (optional)
+
+*Add a screenshot of your UI here for better showcase.*
+
+---
+
+## 👨‍💻 Author
+
+**Your Name**
+GitHub: [@yourusername](https://github.com/yourusername)
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+```
+
+---
+
+Let me know if you'd like:
+- Tailwind installation steps added
+- A deploy link badge (Vercel/Netlify)
+- A version with dark mode screenshot
+
+Want me to generate the README and attach it as a file?
+```
