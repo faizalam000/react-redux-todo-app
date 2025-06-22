@@ -41,7 +41,7 @@ addTodo: (state, action) => {
 ```
 
 ### **2. Smart Task Status Visualization**  
-![Task Status UI](https://via.placeholder.com/400x200/4A5568/FFFFFF?text=Dynamic+Status+Indicators)  
+
 - ✅ **Completed tasks**: Green background with line-through  
 - 🚀 **Active tasks**: High-contrast for maximum focus  
 
